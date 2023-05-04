@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+
+// //[{
+// 	"resource": "/C:/Users/Tejas Chate/Desktop/book-myshow2/book-my-show-app/package.json",
+// 	"owner": "_generated_diagnostic_collection_name_#4",
+// 	"code": "768",
+// 	"severity": 4,
+// 	"message": "Problems loading reference 'https://json.schemastore.org/package': Unable to load schema from 'https://json.schemastore.org/package': getaddrinfo ENOTFOUND json.schemastore.org.",
+// 	"startLineNumber": 1,
+// 	"startColumn": 1,
+// 	"endLineNumber": 1,
+// 	"endColumn": 2
+// }]
